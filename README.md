@@ -331,8 +331,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Settle Network](https://settlenetwork.com/) - Settle provides programmatic interoperability between traditional and digital assets, by leveraging our financial infrastructure in every country we operate. 
 
-- [StellarAuth](https://stellarauth.com/) - StellarAuth increases user security and enables key management across applications and user actions with more grace and simplicity than any 2FA system out there.
-
 - [RealtyBits](https://www.realtybits.com/) - RealtyBits is the first blockchain based marketplace for buying and selling real estate assets with digital currencies from anywhere in the world.
 
 - [Kapilendo](https://www.kapilendo.de/) - Kapilendo is a banking platform for SMEs and issued its first blockchain-based digital bond on Stellar.
