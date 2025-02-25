@@ -321,8 +321,6 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone with a built in Stellar wallet. 
 
-- [DSTOQ](https://dstoq.com/) - DSTOQ is on a mission to introduce micro investing to billions of people around the world. 
-
 - [Money Clip](https://www.moneyclip.io/) - MoneyClip stores Canadian Dollars inside your phone. You can split bills, buy & sell online, and easily pay friends and family using digital cash. It’s quick, secure, and easy to use.
 
 - [Nodle](https://nodle.io/) - Nodle is the world’s largest ecosystem of connected devices, providing infrastructure, software and access to data for the Internet of Things.
