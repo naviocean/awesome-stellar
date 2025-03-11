@@ -349,9 +349,7 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 - [Public Node](https://publicnode.org/) - Stellar nodes funded by the community. 
 
-- [Rehive](https://rehive.com/) - Rehive is a platform and toolkit for building fintech apps on Stellar. 
-
-- [Stellar Battle](https://stellarbattle.com/) - Win community funded prizes. 
+- [Rehive](https://rehive.com/) - Rehive is a platform and toolkit for building fintech apps on Stellar.  
 
 - [COINQVEST](https://www.coinqvest.com/) - COINQVEST helps online merchants and e-commerce shops programmatically accept and settle payments in new digital currencies while staying compliant, keeping their accountants and tax authorities happy.
 
